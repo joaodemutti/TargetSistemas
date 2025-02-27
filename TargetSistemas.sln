@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faturamento", "Faturamento\Faturamento.csproj", "{D015ED73-8C2E-4659-B15F-8040AA5A5041}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Percentual", "Percentual\Percentual.csproj", "{BE66A5D3-0BD7-4956-9454-BD84533F373A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE66A5D3-0BD7-4956-9454-BD84533F373A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE66A5D3-0BD7-4956-9454-BD84533F373A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE66A5D3-0BD7-4956-9454-BD84533F373A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE66A5D3-0BD7-4956-9454-BD84533F373A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
