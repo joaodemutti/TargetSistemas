@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{D15C777C-B107-42E2-A6EB-DC8932C658D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faturamento", "Faturamento\Faturamento.csproj", "{D015ED73-8C2E-4659-B15F-8040AA5A5041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D15C777C-B107-42E2-A6EB-DC8932C658D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15C777C-B107-42E2-A6EB-DC8932C658D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15C777C-B107-42E2-A6EB-DC8932C658D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D015ED73-8C2E-4659-B15F-8040AA5A5041}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

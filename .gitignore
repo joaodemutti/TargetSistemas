@@ -1,7 +1,64 @@
-﻿################################################################################
-# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
-################################################################################
+﻿# Visual Studio - Arquivos Temporários, Configurações e Logs
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-/.vs
-/Fibonacci/bin/Debug/net8.0
-/Fibonacci/obj
+# Diretórios de Build e Debug
+bin/
+obj/
+out/
+
+# Logs e Cache
+*.log
+*.tlog
+*.cache
+*.pdb
+*.ilk
+
+# Arquivos de Configuração do Visual Studio Code
+.vscode/
+
+# Dependências (caso use pacotes NuGet)
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+package-lock.json
+
+# Arquivos de Publicação
+publish/
+*.Publish.xml
+
+# Arquivos de Configuração de Ambiente
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# DLLs e Arquivos Gerados
+*.dll
+*.exe
+*.tmp
+*.bak
+
+# Dados do ReSharper e Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# Diretórios do Test Explorer
+TestResults/
+*.trx
+.coverage
+.coveragexml
+
+# Arquivos de Backup
+*.old
+*.orig
+
+# Configuração de Ambiente do Docker (se aplicável)
+docker-compose.override.yml
+
+# Arquivos de Controle do Git
+!/.gitignore
+!/.gitattributes
